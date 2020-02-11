@@ -1,4 +1,4 @@
-class Autour
+class Author
   attr_accessor :name
   def initialize
 
